@@ -46,4 +46,4 @@ bash Root-F.sh
 > Nota: El root no va a brindar acceso root completo y a todo tu Android, sinó un root falso y que unicamente te sirve en la terminal|Termux.
 
 ## Dudas y/o Errores:
-* [Telegram](https:://t.me/Error404_00 "ERROR-404")
+* [Telegram](https://t.me/Error404_00 "ERROR-404")
